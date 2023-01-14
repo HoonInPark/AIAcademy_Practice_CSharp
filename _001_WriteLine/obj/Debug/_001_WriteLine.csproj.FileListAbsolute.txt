@@ -1,0 +1,8 @@
+C:\Users\이주영\Desktop\AIAcademy\_02_my_CSharp\_001_WriteLine\_001_WriteLine\bin\Debug\_001_WriteLine.exe.config
+C:\Users\이주영\Desktop\AIAcademy\_02_my_CSharp\_001_WriteLine\_001_WriteLine\bin\Debug\_001_WriteLine.exe
+C:\Users\이주영\Desktop\AIAcademy\_02_my_CSharp\_001_WriteLine\_001_WriteLine\bin\Debug\_001_WriteLine.pdb
+C:\Users\이주영\Desktop\AIAcademy\_02_my_CSharp\_001_WriteLine\_001_WriteLine\obj\Debug\_001_WriteLine.csproj.AssemblyReference.cache
+C:\Users\이주영\Desktop\AIAcademy\_02_my_CSharp\_001_WriteLine\_001_WriteLine\obj\Debug\_001_WriteLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\이주영\Desktop\AIAcademy\_02_my_CSharp\_001_WriteLine\_001_WriteLine\obj\Debug\_001_WriteLine.csproj.CoreCompileInputs.cache
+C:\Users\이주영\Desktop\AIAcademy\_02_my_CSharp\_001_WriteLine\_001_WriteLine\obj\Debug\_001_WriteLine.exe
+C:\Users\이주영\Desktop\AIAcademy\_02_my_CSharp\_001_WriteLine\_001_WriteLine\obj\Debug\_001_WriteLine.pdb
